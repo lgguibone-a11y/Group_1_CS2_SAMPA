@@ -32,4 +32,4 @@ Recto: Concept brainstorming and hardware support.
 Authors: Dagotdot, Aemeruth Almeraj 
          Guibone, Larra Gabrielle 
          Recto, Sean Mandy 
-
+Project Proposal link: https://github.com/lgguibone-a11y/GROUP_1_CS_PROJECT_PROPOSAL
