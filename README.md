@@ -1,35 +1,63 @@
-# Group_1_CS2_SAMPA
-Project Title: Cleaners Logbook 
-Description: This repository contains a simple Python program for tracking cleaners' shifts. It lets you type in a cleaner's surname and what tasks they finished, then automatically stamps the log-in and log-out times to print out a neat summary table.
+Group_1_CS2_SAMPA 
+Project Title: Student Matching System. This repository consists of a python program made to connect and find matches to other classmates based on data and preferences. The program allows students to enter their name, birthday, favorite color, hobby, sport, food, up to three fandoms, and favorite animal. The program compares students' answers, calculates their compatibility scores, and displays potential matches based on their shared interests. 
 
+How to run the program: The user will first input their personal information. Then the program will save the students profile and find other people with similar interests then calculate their compatibility. The program will display their calculated scores along with the profiles with shared interests. The user can also like or skip the displayed profile. 
 
-How to run the program: User will input surname during login. 
-                        After, code calculates the date and time with surname.
-                        Logouts requires the user to input surname again.
-                        Then code with calculate the the date and time again as well as asking the user to input the actions they had done. 
-
-Input needed: Surname and actions done. 
+Input needed:
+Name
+Birthday
+Favorite color
+Hobby
+Sport
+Food
+Fandoms (maximum of three)
+Favorite animal
+Like or skip selection
 
 Sample output: 
 
-Enter Cleaner Surname: DAGOTDOT 
-Logged IN at: 2026-08-28 12:15 PM
-Enter Actions Done: SWEEP & THROW OUT TRASH
-Logged OUT at: 2026-08-28 12:16 PM
+========================================
+       BATCHMATCH 2031
+  STUDENT INTEREST MATCHING SYSTEM
+========================================
 
-Add another entry? (y/n): N
+Enter your name: STUDENT A
+Enter your birthday (MM-DD): 05-14
+Enter your favorite color: BLUE
+Enter your hobby: DRAWING
+Enter your favorite sport: BASKETBALL
+Enter your favorite food: PIZZA
+Enter your fandoms (maximum of 3):
+Fandom 1: MARVEL
+Fandom 2: MINECRAFT
+Fandom 3: NONE
+Enter your favorite animal: CAT
 
-CLEANERS LOGBOOK:
+Profile created successfully!
 
-SURNAME:        | LOG IN TIME:           | LOG OUT TIME:          | ACTIONS:
---------------------------------------------------------------------------------
-DAGOTDOT        | 2026-08-28 12:15 PM    | 2026-08-28 12:16 PM    | SWEEP & THROW OUT TRASH**
+Finding your compatible classmates...
 
-Dagotdot: Concept brainstorming and content creation.
-Guibone: Concept brainstorming and system encoding.
-Recto: Concept brainstorming and hardware support.
+----------------------------------------
+          RECOMMENDED MATCH
+----------------------------------------
+Name: STUDENT B
+Compatibility: 75%
 
-Authors: Dagotdot, Aemeruth Almeraj 
-         Guibone, Larra Gabrielle 
-         Recto, Sean Mandy 
-Project Proposal link: https://github.com/lgguibone-a11y/GROUP_1_CS_PROJECT_PROPOSAL
+Shared Interests:
+- Favorite Color: BLUE
+- Hobby: DRAWING
+- Favorite Food: PIZZA
+
+Would you like to like or skip this profile?
+Enter choice (L/S): L
+
+You liked STUDENT B!
+
+----------------------------------------
+Add another profile? (Y/N): N
+
+Thank you for using VibeMatch!!!
+
+Dagotdot: Concept brainstorming and content creation. Guibone: Concept brainstorming and system encoding. Recto: Concept brainstorming and hardware support.
+
+Authors: Dagotdot, Aemeruth Almeraj Guibone, Larra Gabrielle Recto, Sean Mandy Project Proposal link:
