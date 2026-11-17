@@ -56,7 +56,7 @@ You liked STUDENT B!
 ----------------------------------------
 Add another profile? (Y/N): N
 
-Thank you for using VibeMatch!!!
+Thank you for using BatchMatch!!!
 
 Dagotdot: Concept brainstorming and content creation. Guibone: Concept brainstorming and system encoding. Recto: Concept brainstorming and hardware support.
 
